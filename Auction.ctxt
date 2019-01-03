@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Auction
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Auction\ here.\r\n\r\n\ @author\ (Samad\ alias\ Nyein\ Chan)\r\n\ @version\ (23rd\ November\ 2018)\r\n
+comment1.params=
+comment1.target=Auction()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Auction\r\n
+comment2.params=item
+comment2.target=java.lang.String\ addItem(Item)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=item
+comment3.target=java.lang.String\ updateBids(Item)
+comment4.params=item
+comment4.target=java.lang.String\ removeItem(Item)
+comment4.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment5.params=
+comment5.target=java.lang.String\ showItems()
+comment5.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment6.params=
+comment6.target=java.util.Set\ getItems()
+comment6.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Tester
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Tester\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Tester()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tester\r\n
+comment2.params=
+comment2.target=java.lang.String\ testAddBid()
+comment3.params=
+comment3.target=java.lang.String\ testShowBids()
+comment4.params=
+comment4.target=double\ testHighestBids()
+comment5.params=
+comment5.target=void\ testSomething()
+comment6.params=
+comment6.target=void\ fiveMultiples()
+numComments=7
